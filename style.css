@@ -15,6 +15,7 @@ body {
   grid-template-rows: 50px 1fr 50px;
   background: #a5b669;
   text-align: center;
+  padding: 0 20px;
 }
 
 .content {
