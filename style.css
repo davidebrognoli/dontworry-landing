@@ -15,7 +15,6 @@ body {
   grid-template-rows: 50px 1fr 50px;
   background: #a5b669;
   text-align: center;
-  padding: 0 20px;
 }
 
 .content {
@@ -32,7 +31,7 @@ h1{
 
 p {
   font-size: 20px;
-  margin: 20px 0 10px;
+  margin: 20px 20px 10px;
 }
 
 .contacts ul {
